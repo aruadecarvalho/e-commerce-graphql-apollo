@@ -21,12 +21,12 @@ import {
 } from "firebase/firestore";
 
 const firebaseConfig = {
-  apiKey: process.env.REACT_APP.apiKey,
-  authDomain: process.env.REACT_APP.authDomain,
-  projectId: process.env.REACT_APP.projectId,
-  storageBucket: process.env.REACT_APP.storageBucket,
-  messagingSenderId: process.env.REACT_APP.messagingSenderId,
-  appId: process.env.REACT_APP.appId,
+  apiKey: process.env.REACT_APP_apiKey,
+  authDomain: process.env.REACT_APP_authDomain,
+  projectId: process.env.REACT_APP_projectId,
+  storageBucket: process.env.REACT_APP_storageBucket,
+  messagingSenderId: process.env.REACT_APP_messagingSenderId,
+  appId: process.env.REACT_APP_appId,
 };
 
 // Initialize Firebase
