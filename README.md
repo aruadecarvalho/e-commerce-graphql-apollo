@@ -1,6 +1,6 @@
 # E-commerce
 
-An E-commerce website built with React.js, Redux, Firebase and StyledComponents.
+An E-commerce website built with React.js, GraphQL, Apollo Client, Firebase and StyledComponents.
 
 ## Demo
 
@@ -12,7 +12,7 @@ An E-commerce website built with React.js, Redux, Firebase and StyledComponents.
 
 ## Lessons Learned
 
-This was my first project with Firebase, Redux, Redux Saga, Redux Persist, Redux Thunk and Styled Components. It gave me a broader view of React.js architecture and how to think and structure a bigger application.
+This was my first project with Firebase, GraphQL, Apollo Client and Styled Components. It gave me a broader view of React.js architecture and how to think and structure a bigger application.
 
 ## Appendix
 
