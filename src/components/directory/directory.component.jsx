@@ -6,23 +6,33 @@ const categories = [
   {
     id: 1,
     title: "Hats",
-    imageUrl:
-      "https://i.ibb.co/b5Lmpfj/DALL-E-2022-07-29-19-27-03-picture-of-a-cap-with-a-solid-light-color-background.png",
+    imageUrl: "https://i.ibb.co/ypkgK0X/blue-beanie.png",
     route: "shop/hats",
   },
 
   {
     id: 2,
-    title: "Clothes",
-    imageUrl:
-      "https://i.ibb.co/025mWhr/DALL-E-2022-07-29-19-20-06-image-of-a-t-shirt-with-a-solid-light-color-background.png",
-    route: "shop/clothes",
+    title: "Jackets",
+    imageUrl: "	https://i.ibb.co/mJS6vz0/blue-jean-jacket.png",
+    route: "shop/jackets",
   },
   {
     id: 3,
+    title: "Mens",
+    imageUrl: "https://i.ibb.co/55z32tw/long-sleeve.png",
+    route: "shop/mens",
+  },
+  {
+    id: 4,
     title: "Sneakers",
-    imageUrl: "https://i.ibb.co/pfH9gRF/shoes.webp",
+    imageUrl: "https://i.ibb.co/0s3pdnc/adidas-nmd.png",
     route: "shop/sneakers",
+  },
+  {
+    id: 5,
+    title: "Womens",
+    imageUrl: "https://i.ibb.co/KV18Ysr/floral-skirt.png",
+    route: "shop/womens",
   },
 ];
 
